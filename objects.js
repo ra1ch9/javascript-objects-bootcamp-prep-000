@@ -1,2 +1,2 @@
-var playlist = { (Phil Ochs: "Here'/s to the state of Mississippi")
-}
+Object.assign({}, obj, {[key]: value})
+var playlist = {Phil Ochs: "Heres to the state of Mississippi"}
